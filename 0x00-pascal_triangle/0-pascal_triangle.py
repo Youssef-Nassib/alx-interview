@@ -3,8 +3,10 @@
 we gonna create a pascal triangle using loops
 """
 
+
 def pascal_triangle(n):
-    """pascal tria
+    """
+    pascal triangle
     """
     k = []
     if n <= 0:
