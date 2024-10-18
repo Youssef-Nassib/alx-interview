@@ -1,11 +1,13 @@
 #!/usr/bin/python3
 """
-Minimum operations
+Minimum operatieons
 """
+
 
 def minOperations(n):
     """
-    :param n:
+
+    :parametre n:
     :return:
     """
     if n <= 1:
